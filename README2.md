@@ -42,3 +42,9 @@ Based on the data analysis, we recommend MTP follow the below guidelines:
 In order to further improve location of MTP warehouses, clustering methodology will be performed on crash data to determine hotspots within each region that will require quick turnaround of replacement aircraft.
 
 In addition, given the cleaned geographic coordinates of crash sites, it is possible to calculate the distance between takeoff airport and crash site. this will give insight to optimal insurance coverage plans on aircrafts, as well as forecast future possibilities of retrieving damaged aircraft for repair & re-use.
+
+ ### Tableau Dashboard
+
+ https://public.tableau.com/app/profile/reid.majka/viz/Phase-1-project/Dashboard1?publish=yes
+
+ 
